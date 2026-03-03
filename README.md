@@ -15,3 +15,5 @@ Software Developer - Security Engineer
 - Network traffic analysis
 - Security monitoring & log analysis
 - SIEM-assisted analysis (Elastic)
+
+[email](yastre6@proton.me)
