@@ -18,5 +18,5 @@ Software Developer - Security Engineer
 
 ---
 ## Contact Me
-[email](yastre6@proton.me)
+[email](mailto:yastre6@proton.me)
 
