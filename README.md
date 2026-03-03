@@ -1,16 +1,17 @@
-## Hi there 👋
+# Mykyta Chursin
+--- 
+Software Developer - Security Engineer
 
-<!--
-**takymy/takymy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Skills & Tools
+- Web application development (React, TypeScript, Node.js)
+- Backend development fundamentals
+- Python, Java, C
+- Networking fundamentals & protocol understanding
+- Penetration testing methodologies
+- Reconnaissance & information gathering
+- Manual & automated exploitation
+- Windows & Linux privilege escalation
+- Network traffic analysis
+- Security monitoring & log analysis
+- SIEM-assisted analysis (Elastic)
