@@ -1,6 +1,6 @@
 # Mykyta Chursin
 ---
-Software Developer · Security Engineer · AI Enthusiast
+Software Developer
 ---
 
 ## Skills & Tools
