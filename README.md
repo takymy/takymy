@@ -11,7 +11,7 @@ Software Developer · Security Engineer · AI Enthusiast
 
 **Backend:** Node.js, REST APIs, MongoDB
 
-**Networking:** Fundamentals, protocol analysis, traffic analysis
+**Networking:** TCP/IP, VLAN, protocol analysis, traffic analysis
 
 **Offensive Security:** Penetration testing, reconnaissance, exploitation, privilege escalation (Windows & Linux)
 
@@ -21,7 +21,7 @@ Software Developer · Security Engineer · AI Enthusiast
 
 **Blockchain:** Solana (Devnet)
 
-**Tools:** Git, Linux, SQLite, Maven, JUnit 5, Agile
+**Tools:** Git, Linux, SQLite, Agile, Maven
 
 ---
 
