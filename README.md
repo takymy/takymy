@@ -1,4 +1,4 @@
-# Mykyta Chursin
+# Mick Chursin
 ---
 Software Developer
 ---
