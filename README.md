@@ -26,4 +26,4 @@ Software Developer
 ---
 
 ## Contact Me
-[Email](mailto:yastre6@proton.me) · [LinkedIn](https://linkedin.com/in/mykytachursin) · [Website](https://mchursin.com)
+[Email](mailto:yastre6@proton.me) · [LinkedIn](https://linkedin.com/in/mykytachursin) · [Website](https://mchursin.com) · [Codewars](https://www.codewars.com/users/takymy)
