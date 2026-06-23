@@ -13,10 +13,6 @@ Software Developer
 
 **Networking:** TCP/IP, VLAN, protocol analysis, traffic analysis
 
-**Offensive Security:** Penetration testing, reconnaissance, exploitation, privilege escalation (Windows & Linux)
-
-**Defensive Security:** SIEM analysis (Elastic), log analysis, security monitoring
-
 **Embedded / Systems:** FreeRTOS, Kivy
 
 **Blockchain:** Solana (Devnet)
