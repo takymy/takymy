@@ -5,19 +5,19 @@ Software Developer
 
 ## Skills & Tools
 
-**Languages:** Python, JavaScript, TypeScript, Java, C, Haskell
+**Languages:** Python, JavaScript, TypeScript, C
 
-**Frontend:** React, React Native, HTML, CSS, Tailwind
+**Frontend:** React, React Native, HTML, CSS, Tailwind, Kivy
 
 **Backend:** Node.js, REST APIs, MongoDB
 
 **Networking:** TCP/IP, VLAN, protocol analysis, traffic analysis
 
-**Embedded / Systems:** FreeRTOS, Kivy
+**Embedded / Systems:** FreeRTOS
 
 **Blockchain:** Solana (Devnet)
 
-**Tools:** Git, Linux, SQLite, Agile, Maven
+**Tools:** Git, Linux, SQLite, Agile
 
 ---
 
