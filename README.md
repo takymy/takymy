@@ -1,6 +1,6 @@
 # Mick Chursin
 ---
-Software Developer
+Software Engineer (MEng Computer Science with Cybersecurity @ soton)
 ---
 
 ## Skills & Tools
