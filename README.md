@@ -1,4 +1,4 @@
-# Mick Chursin
+# Mykyta Chursin
 ---
 Software Engineer (MEng Computer Science with Cybersecurity @ soton)
 ---
